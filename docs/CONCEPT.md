@@ -42,8 +42,7 @@ Morgan for now, maybe others some day. Played on a phone "from couch or commute 
 - Hard limits: hours per week, and whether phone-first is a must. Morgan left these blank three times.
 - Middle or high fantasy, and the setting itself (Morgan: "Let's add some depth to the setting").
 - Engine: the first brief recommended Godot 4, which was not checked or decided here.
-- **Brainstorm trial**
-  - 2026-11-04: 5 concepts; dropped with reasons: yes; kill criteria: yes; 1 round; agent cost $0.97 measured. Trial measures 2 and 3 pending (planning-interview round 1, then Morgan after design).
+- Brainstorm trial: the entry moved to [HANDOFF](HANDOFF.md) at bootstrap.
 
 ## Design brief
 
