@@ -4,7 +4,7 @@ Updated: 2026-11-04. A fresh session must be able to continue from this file alo
 
 ## Phase
 
-Concept chosen ([CONCEPT.md](CONCEPT.md)) and repo bootstrapped; design is next, in a new session. No code yet.
+Design: `planning-interview` round 1 is out with Morgan. No code yet.
 
 ## Plan map
 
@@ -12,19 +12,20 @@ Shown at the start of a session and when asking the owner to approve a PR or a m
 
 - ✔ Brainstorm: concept chosen in 1 round (2026-11-04)
 - ✔ Bootstrap: shared AI setup and repo structure ([#1](https://github.com/DdraigFawr13/Project-Rotam/pull/1), Morgan approved 2026-11-04)
-- ▶ Design: `planning-interview`, starting from CONCEPT.md's Design brief (next session)
+- ▶ Design: `planning-interview` from CONCEPT.md's Design brief; round 1 out (2026-11-04)
 - ○ Plan: first phase spec with `write-spec` (one complete crossing)
 - ○ Build and playtest the first crossing; check the kill criterion
 - ○ Carry-over across careers, only after the crossing playtest
 
 ## Just done
 
+- 2026-11-04 Design [round 1](https://claude.ai/artifact/9Cf9yjqNzSDSPo5KaErdh4) published (collection `round1`): limits and engine, road card play, crew, world, build priorities. 0 answers yet.
 - 2026-11-04 Brainstorm: [open questions](https://claude.ai/artifact/AaR61NtVs27qvWQyj3EwB1), [concepts](https://claude.ai/artifact/1bwW1f2Jhh6Q8MnnGEcg9o), [round 1](https://claude.ai/artifact/7F4E2v36dsWGHJKXYMbUkw). Brief committed to `main`.
 - 2026-11-04 Bootstrap merged as [#1](https://github.com/DdraigFawr13/Project-Rotam/pull/1).
 
 ## Next
 
-1. Morgan starts a new session (Project-Rotam and AI-Master-Instructions attached) for design. Run `planning-interview` from CONCEPT.md's Design brief. Ask first about the hard limits (hours per week, phone-first), which Morgan left blank.
+1. Morgan fills round 1 and says "round 1 done". Then read answers (`ArtifactData` list, collection `round1`, limit 200), run the review round (adversarial reviewer + own review), publish the review page.
 
 ## Open questions
 
