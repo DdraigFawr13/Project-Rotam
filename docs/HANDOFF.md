@@ -4,15 +4,15 @@ Updated: 2026-11-04. A fresh session must be able to continue from this file alo
 
 ## Phase
 
-Concept chosen ([CONCEPT.md](CONCEPT.md)); design is next. No code yet.
+Concept chosen ([CONCEPT.md](CONCEPT.md)) and repo bootstrapped; design is next, in a new session. No code yet.
 
 ## Plan map
 
 Shown at the start of a session and when asking the owner to approve a PR or a merge (WS-08). One line per step, marked done ✔, now ▶ or later ○.
 
 - ✔ Brainstorm: concept chosen in 1 round (2026-11-04)
-- ▶ Bootstrap: shared AI setup and repo structure (this PR)
-- ○ Design: `planning-interview`, starting from CONCEPT.md's Design brief
+- ✔ Bootstrap: shared AI setup and repo structure ([#1](https://github.com/DdraigFawr13/Project-Rotam/pull/1), Morgan approved 2026-11-04)
+- ▶ Design: `planning-interview`, starting from CONCEPT.md's Design brief (next session)
 - ○ Plan: first phase spec with `write-spec` (one complete crossing)
 - ○ Build and playtest the first crossing; check the kill criterion
 - ○ Carry-over across careers, only after the crossing playtest
@@ -20,12 +20,11 @@ Shown at the start of a session and when asking the owner to approve a PR or a m
 ## Just done
 
 - 2026-11-04 Brainstorm: [open questions](https://claude.ai/artifact/AaR61NtVs27qvWQyj3EwB1), [concepts](https://claude.ai/artifact/1bwW1f2Jhh6Q8MnnGEcg9o), [round 1](https://claude.ai/artifact/7F4E2v36dsWGHJKXYMbUkw). Brief committed to `main`.
-- 2026-11-04 Bootstrap on branch `ccr-e864b93e-j4tnv7` (draft PR).
+- 2026-11-04 Bootstrap merged as [#1](https://github.com/DdraigFawr13/Project-Rotam/pull/1).
 
 ## Next
 
-1. Morgan reviews and merges the bootstrap PR.
-2. Run `planning-interview` from CONCEPT.md's Design brief. Ask first about the hard limits (hours per week, phone-first), which Morgan left blank.
+1. Morgan starts a new session (Project-Rotam and AI-Master-Instructions attached) for design. Run `planning-interview` from CONCEPT.md's Design brief. Ask first about the hard limits (hours per week, phone-first), which Morgan left blank.
 
 ## Open questions
 
